@@ -1,0 +1,27 @@
+@mixin font($family, $size, $weight, $height, $color) {
+    font-family: $family;
+    font-size: $size;
+    font-weight: $weight;
+    line-height: $height;
+    color: $color;
+}
+
+@mixin size($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin flex($display, $justify, $align, $gap) {
+    display: $display;
+    justify-content: $justify;
+    align-items: $align;
+    gap: $gap;
+}
+
+@mixin position($position, $top, $right, $bottom, $left) {
+    position: $position;
+    top: $top;
+    right: $right;
+    bottom: $bottom;
+    left: $left;
+}

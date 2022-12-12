@@ -1,0 +1,32 @@
+body,
+.header,
+.features,
+.testimonial,
+.steps {
+    background: #222222 !important;
+}
+
+.chat__title,
+.navigation__title,
+.features__title,
+.tarif__title,
+.customer__title,
+.step__subtitle,
+.step__text,
+.chat__text,
+.tarif__text,
+.customer__text,
+.customer__name,
+.anime,
+body {
+    color: #ffffff !important;
+}
+
+.popup {
+    background: #efefef !important;
+}
+
+.theme {
+    background: #222222;
+    box-shadow: 0 0 10px #ffffff1a;
+}
