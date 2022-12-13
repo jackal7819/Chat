@@ -1336,9 +1336,6 @@ body {
     width: 280px;
   }
 }
-.popup__input_eye {
-  background: #F7F7FD url("../img/eye_close.svg") no-repeat 95%;
-}
 .popup__text {
   font-family: "Inter", sans-serif;
   font-size: 0.75rem;
